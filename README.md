@@ -47,8 +47,21 @@ Join the **DEBO HUB Discord** for:
 * Fixes
 * Announcements
 * Help
+* Free test alts
 
 👉 **https://discord.gg/H7M5kgUjgP**
+
+---
+
+## ⚠️ Usage Warning
+
+Use these scripts at your **own risk**. Updates to the game may break features, and I’m not responsible for any bans, kicks, data loss, or other issues caused by using them.
+
+**DO NOT USE YOUR MAIN ACCOUNT. USE AN ALT.**
+
+If you need a **free alt/test account to use**, contact me in the Discord.
+
+Never give anybody your main account password or login information.
 
 ---
 
